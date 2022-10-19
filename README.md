@@ -1,4 +1,4 @@
-![dashboard page](https://user-images.githubusercontent.com/45428643/196744919-c17c2bb6-2cc0-45d8-8370-f935eeb5e88e.jpg)
+
 ![dashboard page](https://user-images.githubusercontent.com/45428643/196745017-f9d5220d-3274-4237-b72e-784ea6e59526.png)
 # XenonTask
 It has become easy to search PG accommodation nearby the work place. It was difficult earlier to go a place to work which was situated at long-distances and hence had to lose good opportunities, as we don’t know where to stay and where unaware about a particular city.
