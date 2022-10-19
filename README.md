@@ -36,5 +36,6 @@ Reliable, accurate and secure data was also considered to be a complex task with
 The new system proposed and then developed by me will ease the task of the organization in consideration. It will be helpful in generating the required reports by the staff, which will help them to track their progress and services. Thus, it will ease the task of Management to a great extent as all the major activities to be performed, are computerized through the system.
 Thus, it will ease the task of Management to a great extent as all the major activities to be performed, are computerized through the system.
 
-![Uploading 1st page.jpg…]()
-![Uploading dashboard page.jpg…]()
+
+![1st page](https://user-images.githubusercontent.com/45428643/196742762-f889847e-723f-47e3-b1c4-acb2eee464bf.png)
+
