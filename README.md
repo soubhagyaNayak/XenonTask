@@ -1,4 +1,3 @@
-![Screenshot 2022-10-19 213854](https://user-images.githubusercontent.com/45428643/196745984-25b86e0e-77a7-489d-9d8c-b8f22ae14073.png)
 
 
 # XenonTask
@@ -42,4 +41,7 @@ Thus, it will ease the task of Management to a great extent as all the major act
 
 ![1st page](https://user-images.githubusercontent.com/45428643/196742762-f889847e-723f-47e3-b1c4-acb2eee464bf.png)
 ![dashboard page](https://user-images.githubusercontent.com/45428643/196745017-f9d5220d-3274-4237-b72e-784ea6e59526.png)
+![Screenshot 2022-10-19 213854](https://user-images.githubusercontent.com/45428643/196745984-25b86e0e-77a7-489d-9d8c-b8f22ae14073.png)
+![Screenshot 2022-10-19 214104](https://user-images.githubusercontent.com/45428643/196746404-fd0b99de-d3fe-448f-9155-1e6709481ee2.png)
+
 
